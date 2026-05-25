@@ -1,5 +1,3 @@
-# Finance Tracker Backend
-
 This is a backend finance tracking application built using Go and PostgreSQL. (Just for practice)
 
 ## Features
